@@ -1,7 +1,7 @@
 import math
 
 # Team Project: Scientific Calculator Application
-# Version: 1.1.0
+# Version: 1.0.1
 
 def sin(x):
     """Sine of x"""
@@ -23,7 +23,7 @@ def exp(x):
     pass
 
 if __name__ == "__main__":
-    print("Scientific Calculator v1.1.0")
+    print("Scientific Calculator v1.0.1")
     print(f"sin(0) = {sin(0)}")
     print(f"cos(0) = {cos(0)}")
     print(f"log(1) = {log(1)}")
